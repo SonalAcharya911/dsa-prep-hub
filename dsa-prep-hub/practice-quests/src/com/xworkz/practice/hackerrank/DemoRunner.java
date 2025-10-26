@@ -1,5 +1,5 @@
 
-package com.xworkz.practice.runner;
+package com.xworkz.practice.hackerrank;
 
 public class DemoRunner {
     static {
