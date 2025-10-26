@@ -1,4 +1,4 @@
-package com.xworkz.practice.runner;
+package com.xworkz.practice.hackerrank;
 
 import java.util.Scanner;
 
